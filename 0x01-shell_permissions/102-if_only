@@ -1,2 +1,2 @@
 #!/bin/bash
-find hello --from=guillaume betty 
+chown hello --from=guillaume betty 
