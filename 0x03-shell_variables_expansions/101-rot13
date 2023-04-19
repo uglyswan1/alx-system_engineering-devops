@@ -1,2 +1,2 @@
 #!/bin/bash
-iconv -f UTF-8//TRANSLIT -t ISO-8859-1 101-rot13 -o 101-rot13
+iconv -f UTF-8//TRANSLIT -t ISO-8859-1 -o 101-rot13
