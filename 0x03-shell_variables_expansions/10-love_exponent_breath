@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(( while($LOVE>0){($BREATH)*($BREATH)($LOVE)--} ))
