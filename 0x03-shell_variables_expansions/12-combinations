@@ -1,2 +1,2 @@
 #!/bin/bash
-echo sort {a..z} | [[:alpha:]] | grep -v "oo"
+echo {a..z} | [[:alpha:]]* | grep -v "oo"
