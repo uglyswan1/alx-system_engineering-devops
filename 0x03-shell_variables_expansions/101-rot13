@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'iconv -f UTF-8//TRANSLIT -t ISO-8859-1'
+iconv -f UTF-8//TRANSLIT -t ISO-8859-1
